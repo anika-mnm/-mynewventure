@@ -5,3 +5,4 @@ further understanding difftool
 we staged but didn't commit previous line
 diff between diff commit id
 added new files to this repo
+we are checking many files diff
