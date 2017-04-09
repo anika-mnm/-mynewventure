@@ -3,3 +3,5 @@ here we are talking about diff content
 understanding p4merge tool
 further understanding difftool
 we staged but didn't commit previous line
+diff between diff commit id
+added new files to this repo
