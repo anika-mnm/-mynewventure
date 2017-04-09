@@ -1,2 +1,5 @@
 new feature
 here we are talking about diff content
+understanding p4merge tool
+further understanding difftool
+we staged but didn't commit previous line
